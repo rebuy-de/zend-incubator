@@ -1,0 +1,8 @@
+{
+    "name": "rebuy/zend-incubator",
+    "autoload": {
+        "psr-0": {
+            "Zend" : "src/"
+        }
+    }
+}
