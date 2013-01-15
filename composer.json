@@ -5,8 +5,7 @@
             "Zend" : "src/"
         }
     },
-        "include-path": [
-            "src/"
-        ]
-    }
+    "include-path": [
+        "src/"
+    ]
 }
