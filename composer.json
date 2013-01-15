@@ -4,5 +4,9 @@
         "psr-0": {
             "Zend" : "src/"
         }
+    },
+        "include-path": [
+            "src/"
+        ]
     }
 }
